@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my profile, in my many public repositories you can find very different project I work/worked on. \
+This Readme is work in progress for the moment, you can find my curriculum and description of all my main project to my personal website: http://www.cyberpills.net/Falci/Curriculum/
 <!--
 **FAngelo94/FAngelo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
