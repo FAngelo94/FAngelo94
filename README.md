@@ -53,6 +53,7 @@ Here I put all technologies I'm using or used in the past.
 <img alt="Airflow" src="https://img.shields.io/badge/Airflow%20-%23F5F5F5.svg?&style=for-the-badge&logo=airflow&logoColor=black"/>
 <img alt="Grafana" src="https://img.shields.io/badge/swagger%20-%23FF6F00.svg?&style=for-the-badge&logo=swagger&logoColor=white"/>
 <img alt="Jenkins" src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img alt="Bazel" src="https://img.shields.io/badge/bazel%20-%23239120.svg?&style=for-the-badge&logo=bazel&logoColor=white"/>
 </p>
 
 ### Style Programming Languages/Libraries
