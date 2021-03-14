@@ -50,10 +50,11 @@ Here I put all technologies I'm using or used in previus projects.
 <p float="left">
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Bazel" src="https://img.shields.io/badge/bazel%20-%23239120.svg?&style=for-the-badge&logo=bazel&logoColor=white"/>
 <img alt="Airflow" src="https://img.shields.io/badge/Airflow%20-%23F5F5F5.svg?&style=for-the-badge&logo=airflow&logoColor=black"/>
 <img alt="Grafana" src="https://img.shields.io/badge/swagger%20-%23FF6F00.svg?&style=for-the-badge&logo=swagger&logoColor=white"/>
 <img alt="Jenkins" src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img alt="Bazel" src="https://img.shields.io/badge/bazel%20-%23239120.svg?&style=for-the-badge&logo=bazel&logoColor=white"/>
+<img alt="Codebeamer" src="https://img.shields.io/badge/codebeamer%20-%236DB33F.svg?&style=for-the-badge&logo=codebeamer"/>
 </p>
 
 ### Style Programming Languages/Libraries
