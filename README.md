@@ -64,7 +64,7 @@ Here I put all technologies I'm using or used in the past.
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-## Technology Stack Used in the Past
+## Technology Stack Used in Previous Projects
 
 ### Operative System
 <p float="left">
