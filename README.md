@@ -1,7 +1,7 @@
 # Hi There 👋
 
 Welcome to my profile, in my many public repositories you can find very different project I work/worked on. \
-You can find my curriculum with contacts and description of all my main project to my personal website: http://www.cyberpills.net/Falci/Curriculum/ \
+You can find my curriculum with contacts and description of all my main project to my personal website: [http://www.cyberpills.net/Falci/Curriculum/](https://fangelo94.github.io/) \
 Here I put all technologies I'm using or used in previus projects.
 ## Languages Spoken
 <p float="left">
