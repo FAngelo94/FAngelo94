@@ -5,7 +5,9 @@ You can find my curriculum with contacts and description of all my main project 
 Here I put all technologies I'm using or used in previus projects.
 ## Languages Spoken
 <p float="left">
-<img alt="Italiano" title="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" height="15">  
+  
+<img alt="Italiano" title="Italiano" src="[https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg](https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg)" height="15"> 
+  <img alt="Italiano" title="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" height="15">  
 <img alt="English" title="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" height="15"> 
 </p>
 
