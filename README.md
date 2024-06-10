@@ -7,8 +7,7 @@ Here I put all technologies I'm using or used in previus projects.
 <p float="left">
   
 <img alt="Italiano" title="Italiano" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" height="15"> 
-  <img alt="Italiano" title="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" height="15">  
-<img alt="English" title="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" height="15"> 
+<img alt="English" title="English" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/640px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" height="15"> 
 </p>
 
 ## Technology Stack Currently Used
