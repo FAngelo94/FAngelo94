@@ -1,7 +1,7 @@
 # Hi There 👋
 
 Welcome to my profile, in my many public repositories you can find very different project I work/worked on. \
-You can find my curriculum with contacts and description of all my main project to my personal website: [https://fangelo94.github.io/](https://angelofalci.com/) \
+You can find my curriculum with contacts and description of all my main project to my personal website: [https://angelofalci.com/](https://angelofalci.com/) \
 
 ## Languages Spoken
 <p float="left">
